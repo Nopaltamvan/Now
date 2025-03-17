@@ -1,0 +1,11 @@
+p{
+    font-size: 32px; 
+    font-weight: bold;
+}
+
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("https://i.redd.it/8j16f7e41qb91.jpg");
+    background-size: cover;
+}
